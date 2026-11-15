@@ -1,0 +1,14 @@
+# Packages for the notebooks (Questions 1-4) and the web app. Tested with Python 3.13.
+pandas>=2.2
+numpy>=1.26
+scikit-learn==1.7.2   # same version as the saved model in deployment/
+nltk>=3.9
+gensim>=4.3
+matplotlib>=3.8
+seaborn>=0.13
+wordcloud>=1.9
+networkx>=3.2
+pyLDAvis>=3.4
+streamlit>=1.40
+joblib>=1.4
+notebook
